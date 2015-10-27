@@ -1,0 +1,15 @@
+{
+  "name": "tinyhelper",
+  "version": "0.0.1",
+  "description": "Tiny helper to work with tinypng api",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "tinify": "^1.1.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Patryk Nowak",
+  "license": "ISC"
+}
